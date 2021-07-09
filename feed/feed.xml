@@ -5,12 +5,32 @@
 	
 	<link href="https://example.com/mashinka/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2020-07-06T00:00:00Z</updated>
+	<updated>2021-07-09T17:05:03Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Your Name Here</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://example.com/mashinka/posts/new_post/"/>
+		<updated>2021-07-09T17:05:03Z</updated>
+		<id>https://example.com/mashinka/posts/new_post/</id>
+		<content type="html">&lt;p&gt;title: Hello from Github&lt;br /&gt;
+description: This post created from github&lt;br /&gt;
+date: 2020-07-09&lt;br /&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;github&lt;/li&gt;
+&lt;li&gt;demo&lt;br /&gt;
+layout: layouts/post.njk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;hello!&quot; tabindex=&quot;-1&quot;&gt;Hello! &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/mashinka/posts/new_post/#hello!&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Kitten&lt;br /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/167288/125113069-cfeb2880-e0f0-11eb-9b02-a4eea9ff0482.jpg&quot; alt=&quot;download&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Helo word post!</title>

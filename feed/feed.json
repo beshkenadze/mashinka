@@ -10,6 +10,12 @@
     "url": "https://example.com/about-me/"
   },
   "items": [{
+      "id": "https://example.com/mashinka/posts/new_post/",
+      "url": "https://example.com/mashinka/posts/new_post/",
+      "title": "",
+      "content_html": "<p>title: Hello from Github<br />\ndescription: This post created from github<br />\ndate: 2020-07-09<br />\ntags:</p>\n<ul>\n<li>github</li>\n<li>demo<br />\nlayout: layouts/post.njk</li>\n</ul>\n<h1 id=\"hello!\" tabindex=\"-1\">Hello! <a class=\"direct-link\" href=\"https://example.com/mashinka/posts/new_post/#hello!\">#</a></h1>\n<p>Kitten<br />\n<img src=\"https://user-images.githubusercontent.com/167288/125113069-cfeb2880-e0f0-11eb-9b02-a4eea9ff0482.jpg\" alt=\"download\" /></p>\n",
+      "date_published": "2021-07-09T17:05:03Z"
+    },{
       "id": "https://example.com/mashinka/posts/last_post/",
       "url": "https://example.com/mashinka/posts/last_post/",
       "title": "Helo word post!",
