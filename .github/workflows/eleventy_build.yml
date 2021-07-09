@@ -6,14 +6,14 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@master
-      - name: Set the repository name env
-        run: |
-          echo "REPOSITORY_NAME=$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | sed -e "s/:refs//")" >> $GITHUB_ENV
+      - name: Extract repository name
         shell: bash
+        run: echo "##[set-output name=name;]$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | sed -e "s/:refs//")"
+        id: extract_repository_name
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.2
         with:
-          args: --output _dist --pathprefix $REPOSITORY_NAME
+          args: --output _dist --pathprefix ${{ steps.extract_repository_name.outputs.name }}
           install_dependencies: true
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
