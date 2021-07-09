@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/firstpost/</loc>
+    <loc>https://example.com/mashinka/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/secondpost/</loc>
+    <loc>https://example.com/mashinka/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/thirdpost/</loc>
+    <loc>https://example.com/mashinka/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/fourthpost/</loc>
+    <loc>https://example.com/mashinka/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/last_post/</loc>
+    <loc>https://example.com/mashinka/posts/last_post/</loc>
     <lastmod>2020-07-06</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/about/</loc>
+    <loc>https://example.com/mashinka/about/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/posts/</loc>
+    <loc>https://example.com/mashinka/posts/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/</loc>
+    <loc>https://example.com/mashinka/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/page-list/</loc>
+    <loc>https://example.com/mashinka/page-list/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/</loc>
+    <loc>https://example.com/mashinka/tags/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/another-tag/</loc>
+    <loc>https://example.com/mashinka/tags/another-tag/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/second-tag/</loc>
+    <loc>https://example.com/mashinka/tags/second-tag/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/hello-tag/</loc>
+    <loc>https://example.com/mashinka/tags/hello-tag/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/number-2/</loc>
+    <loc>https://example.com/mashinka/tags/number-2/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/$REPOSITORY_NAME/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/mashinka/tags/posts-with-two-tags/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
 </urlset>
