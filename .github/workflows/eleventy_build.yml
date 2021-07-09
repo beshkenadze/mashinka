@@ -9,7 +9,7 @@ jobs:
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.2
         with:
-          args: --output _dist
+          args: --output _dist --pathprefix ${{ github.repository.name }}
           install_dependencies: true
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
