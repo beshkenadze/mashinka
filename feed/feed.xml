@@ -19,7 +19,8 @@
 		<id>https://example.com/mashinka/posts/last_post/</id>
 		<content type="html">&lt;h1 id=&quot;hello!&quot; tabindex=&quot;-1&quot;&gt;Hello! &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/mashinka/posts/last_post/#hello!&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;How are you doing?!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://example.com/mashinka/posts/last_post/img/03b2120a0232221094ef3733d2efa9c93def7b33.jpeg&quot; alt=&quot;photo-1536761171793-65f749382275.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1625820951758-2e7461ff58fd?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=Mnw5MDg0MHwwfDF8YWxsfDJ8fHx8fHwyfHwxNjI1ODQ4NzA3&amp;amp;ixlib=rb-1.2.1&amp;amp;q=80&amp;amp;w=1080&quot; alt=&quot;fire in close up photography&quot; title=&quot;Luke Besley&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/beshkenadze/mashinka/gh-pages/2021/07/09-19-50-45-download.jpg&quot; alt=&quot;download.jpg&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	

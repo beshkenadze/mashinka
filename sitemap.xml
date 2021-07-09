@@ -52,11 +52,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/mashinka/tags/another-tag/</loc>
-    <lastmod>2021-07-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/mashinka/tags/second-tag/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
@@ -73,6 +68,11 @@
   
   <url>
     <loc>https://example.com/mashinka/tags/posts-with-two-tags/</loc>
+    <lastmod>2021-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/mashinka/tags/another-tag/</loc>
     <lastmod>2021-07-09</lastmod>
   </url>
 </urlset>
