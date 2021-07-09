@@ -6,10 +6,12 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@master
+      - run: echo ::set-env name=REPOSITORY_NAME::$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | sed -e "s/:refs//")
+        shell: bash
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.2
         with:
-          args: --output _dist --pathprefix ${{ github.repository.name }}
+          args: --output _dist --pathprefix $REPOSITORY_NAME
           install_dependencies: true
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
