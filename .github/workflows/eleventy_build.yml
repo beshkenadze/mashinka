@@ -11,7 +11,7 @@ jobs:
         run: echo "##[set-output name=name;]$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | sed -e "s/:refs//")"
         id: extract_repository_name
       - name: Build
-        uses: TartanLlama/actions-eleventy@v1.2
+        uses: TartanLlama/actions-eleventy@v1.3
         with:
           args: --output _dist --pathprefix ${{ steps.extract_repository_name.outputs.name }}
           install_dependencies: true
