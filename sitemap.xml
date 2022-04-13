@@ -22,62 +22,47 @@
   </url>
   
   <url>
-    <loc>https://example.com/mashinka/posts/last_post/</loc>
-    <lastmod>2020-07-06</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/mashinka/about/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/posts/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/page-list/</loc>
-    <lastmod>2021-07-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/mashinka/posts/new_post/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/tags/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/tags/another-tag/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/tags/second-tag/</loc>
-    <lastmod>2021-07-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/mashinka/tags/hello-tag/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/tags/number-2/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/mashinka/tags/posts-with-two-tags/</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2022-04-13</lastmod>
   </url>
 </urlset>
